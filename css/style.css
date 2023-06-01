@@ -290,6 +290,11 @@ a:hover {
   padding: 0.15rem;
 }
 
+/* css to add margin when scroll to id */
+.scroll-target {
+  scroll-margin-top: 90px;
+}
+
 @keyframes whatsapp-icon {
   10%,
   90% {
